@@ -1,0 +1,63 @@
+!SESSION 2024-09-20 01:05:01.374 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-09-20 01:05:45.975
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-09-20 01:05:46.006
+!MESSAGE Log4j initialized with config file E:\StudyingMaterials\Sem241\ES_241\lab1\LAB1\SOURCE_CODE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-09-20 01:05:49.291
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2024-09-20 01:06:46.499
+!MESSAGE Indexed 'Bai1_GPIO_Delay' (21 sources, 81 headers) in 1.93 sec: 4,391 declarations; 17,578 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0091%)
+!SESSION 2024-09-20 07:21:49.019 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data E:\StudyingMaterials\Sem241\ES_241\lab1\LAB1\SOURCE_CODE
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-09-20 07:21:52.129
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-09-20 07:21:52.160
+!MESSAGE Log4j initialized with config file E:\StudyingMaterials\Sem241\ES_241\lab1\LAB1\SOURCE_CODE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-09-20 07:21:56.042
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-09-20 07:25:46.405 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-09-20 07:25:53.922
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-09-20 07:25:53.957
+!MESSAGE Log4j initialized with config file E:\StudyingMaterials\Sem241\ES_241\lab1\LAB1\SOURCE_CODE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-09-20 07:25:58.027
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-09-20 11:34:25.880 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-09-20 11:34:38.066
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-09-20 11:34:38.100
+!MESSAGE Log4j initialized with config file E:\StudyingMaterials\Sem241\ES_241\lab1\LAB1\SOURCE_CODE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-09-20 11:34:42.352
+!MESSAGE Started RMI Server, listening on port 41338
